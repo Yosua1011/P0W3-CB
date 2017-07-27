@@ -1,0 +1,16 @@
+/*
+  CONCATENATION
+  =============
+  Have the function concatenation(str1, str2)
+  take str1 and str2 as parameters
+  being passed and return a new string which
+  is the combined value of both string,
+  separated by spaces.
+*/
+function concatenation(str1, str2) {
+  return str1;
+}
+
+console.log('===== CONCATENATION =====');
+console.log(concatenation('john', 'doe')); // john doe
+console.log(concatenation('mike', 'awesome')); // mike awesome
